@@ -1,4 +1,4 @@
 #/bin/sh
-cd /home/jun/git/agri-pi
+cd /home/tvnojohn/git/agri-pi
 
 git pull origin master
